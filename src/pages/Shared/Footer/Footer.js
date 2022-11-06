@@ -6,7 +6,7 @@ import '../CustomIconCss/CustomIconCss.css';
 
 const Footer = () => {
     return (
-        <div>
+        <div className='border-t border-base-300'>
             <footer className="footer p-10 bg-gray-600 text-white">
                 <div>
                     <span className="footer-title">ADDRESS</span>

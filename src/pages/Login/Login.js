@@ -22,7 +22,7 @@ const Login = () => {
                         </div>
                         <div className="links">
                             <Link to='/'>Forgot Password?</Link>
-                            <Link to='/auth/register'>SignUp</Link>
+                            <Link to='/auth/register'>Sign Up</Link>
                         </div>
                         <div className='flex justify-between items-center'>
                             <input type="submit" value="Login" />
