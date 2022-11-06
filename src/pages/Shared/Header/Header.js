@@ -40,7 +40,6 @@ const Header = () => {
                     {/* This section will change after authentication is done */}
                     <div className='p-2'>
                         <Link className='hover:text-orange-600 p-2' to='/auth/login'>Login</Link>
-                        <Link className='hover:text-orange-600' to='/auth/register'>Register</Link>
                     </div>
                     <div className="dropdown dropdown-end">
                         {/* Profile Picture Section */}
