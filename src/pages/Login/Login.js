@@ -11,8 +11,8 @@ const Login = () => {
                     <form className="form">
                         <h2>Sign in</h2>
                         <div className="inputBox">
-                            <input type="text" required="required" />
-                            <span>Username</span>
+                            <input type="email" required="required" />
+                            <span>Email</span>
                             <i></i>
                         </div>
                         <div className="inputBox">
